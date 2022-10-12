@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there, I'm Beto Balmant 👋
 
-<!--
-**betobalmant/betobalmant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### About
+I'm a web developer. And, I'm studyng web development at [Rocketseat](https://rocketseat.com.br/).
 
-Here are some ideas to get you started:
+#### Current stack 
+- ⚡️ Main lanuage: `Javascript `
+- 📡 Backend: `Nodejs`
+- 🎉 Frotend: `Reactjs`, `HTML5`, `CSS3`, `Javascript`
+- 🎨 Layout Design: `Figma`
+- 📦️ Version code control: `Git & Github`
+- 🔨 Tools: `Vscode`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Contacts
+- 📧 Email: beto.balmant@hotmail.com
+- 😀 Linkedin: https://www.linkedin.com/in/beto-balmant-046132145/
